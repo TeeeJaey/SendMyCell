@@ -14,10 +14,10 @@
 ## Some ScreenShots
 
 ### Main index page
-![Index] ( _images/IndexScreen.png)
+![Index](_images/IndexScreen.png)
 
 ### Product page
-![Product] ( _images/ProductScreen.png)
+![Product](_images/ProductScreen.png)
 
 ### Registeration page
-![Registeration] ( _images/SignUpScreen.png)
+![Registeration](_images/SignUpScreen.png)
