@@ -1,4 +1,4 @@
- # SendMyCell - PHP project
+  # SendMyCell - PHP project
 - SendMyCell is a project on E-Commerce Website & database designing. 
 - SendMyCell is an online store for mobiles and accessories. 
 - You can choose from thousands of mobiles and buy the perfect phone that matches your perfect personnality.
@@ -14,10 +14,10 @@
 ## Some ScreenShots
 
 ### Main index page
-![Index](_images/IndexScreen.png)
+![Index](images/IndexScreen.png)
 
 ### Product page
-![Product](_images/ProductScreen.png)
+![Product](images/ProductScreen.png)
 
 ### Registeration page
-![Registeration](_images/SignUpScreen.png)
+![Registeration](images/SignUpScreen.png)
