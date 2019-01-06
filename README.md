@@ -1,4 +1,7 @@
   # SendMyCell - PHP project
+  
+  <img src="https://pngimg.com/uploads/mysql/mysql_PNG25.png" height="300"  align="right" style="float:right" />
+  
 - SendMyCell is a project on E-Commerce Website & database designing. 
 - SendMyCell is an online store for mobiles and accessories. 
 - You can choose from thousands of mobiles and buy the perfect phone that matches your perfect personnality.
